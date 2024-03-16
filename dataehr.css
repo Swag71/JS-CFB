@@ -1,0 +1,20 @@
+*{
+  border: none;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+#drelogio{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  background-color: #444;
+  color: #0f0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  border-radius: 7px;
+  font-size: larger;
+}
